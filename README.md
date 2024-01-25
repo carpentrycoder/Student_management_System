@@ -12,7 +12,6 @@ The "Student Management System" is a Java-based application designed to efficien
 - **User Registration Window:** Displays a window for user registration.
 - **Start Window:** Presents a simple start window with login and register buttons.
 - **View Details & Marks:** Shows details and marks using GUI interfaces.
-- **Developed in IntelliJ 
 
 
 Tools Used:
