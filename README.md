@@ -1,4 +1,4 @@
-⁸# Student_management_System
+# Student_management_System
  
 The "Student Management System" is a Java-based application designed to efficiently manage educational information, including student details, marks, attendance, and user .
 
