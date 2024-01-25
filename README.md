@@ -1,4 +1,4 @@
-# Student_management_System
+⁸# Student_management_System
  
 The "Student Management System" is a Java-based application designed to efficiently manage educational information, including student details, marks, attendance, and user .
 
@@ -14,7 +14,7 @@ The "Student Management System" is a Java-based application designed to efficien
 - **View Details & Marks:** Shows details and marks using GUI interfaces.
 
 
-Tools Used:
-Java: Primary programming language for application development.
-IDE: IntelliJ IDEA for Java development.
+# Tools Used:
+- Java: Primary programming language for application development.
+- IDE: IntelliJ IDEA for Java development.
 
